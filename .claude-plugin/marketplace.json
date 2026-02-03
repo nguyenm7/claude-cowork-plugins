@@ -1,0 +1,35 @@
+{
+  "name": "aavaz-ai-plugins",
+  "owner": {
+    "name": "Aavaz AI",
+    "email": "hello@aavaz.ai"
+  },
+  "metadata": {
+    "description": "Collection of Claude Code plugins for enhanced productivity and specialized workflows",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "enterpret-content-studio",
+      "source": "./plugins/enterpret-content-studio",
+      "description": "Content production plugin for creating, editing, and publishing marketing and thought leadership content for Enterpret",
+      "version": "5.0.0",
+      "author": {
+        "name": "Aavaz AI"
+      },
+      "keywords": [
+        "content",
+        "marketing",
+        "writing",
+        "seo",
+        "copywriting",
+        "thought-leadership",
+        "blog",
+        "social-media",
+        "enterpret"
+      ],
+      "category": "productivity",
+      "homepage": "https://github.com/aavaz-ai/claude-cowork-plugins/tree/main/plugins/enterpret-content-studio"
+    }
+  ]
+}
