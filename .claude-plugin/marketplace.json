@@ -1,12 +1,19 @@
 {
   "name": "aavaz-ai-plugins",
+  "version": "1.0.0",
   "owner": {
     "name": "Aavaz AI"
   },
   "plugins": [
     {
       "name": "enterpret-content-studio",
-      "source": "./plugins/enterpret-content-studio",
+      "source": {
+        "source": "github",
+        "repo": "aavaz-ai/claude-cowork-plugins",
+        "path": "plugins/enterpret-content-studio",
+        "ref": "main"
+      },
+      "version": "5.0.0",
       "description": "Content production plugin for Enterpret marketing and thought leadership"
     }
   ]
