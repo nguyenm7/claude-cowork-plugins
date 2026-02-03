@@ -1,13 +1,6 @@
 ---
 name: enterpret-content-studio
-description: |
-  **Enterpret Content Production Studio**: Create, edit, and publish marketing and thought leadership content for Enterpret.
-
-  MANDATORY TRIGGERS: blog post, article, case study, customer story, LinkedIn post, social media, thought leadership, content brief, content calendar, marketing content, ghostwriting, byline, SEO, copyedit, edit, proofread, citations, sources, customer quotes, feedback quotes, research, industry trends
-
-  Supports: Blog posts & articles, case studies & customer stories, LinkedIn posts (company + executive), social media content, content briefs, web/desk research for industry data, SEO optimization, citation verification, customer feedback research via Wisdom MCP, and prose polish/copyediting.
-
-  Use this skill when anyone at Enterpret needs to create, edit, research, optimize, or review marketing content of any type.
+description: Create, edit, and publish marketing and thought leadership content for Enterpret including blog posts, case studies, LinkedIn posts, and social media. Includes SEO optimization, citation verification, customer feedback research via Wisdom MCP, and prose polish/copyediting.
 ---
 
 # Enterpret Content Studio
