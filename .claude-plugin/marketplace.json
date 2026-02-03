@@ -11,7 +11,12 @@
   "plugins": [
     {
       "name": "enterpret-content-studio",
-      "source": "./plugins/enterpret-content-studio",
+      "source": {
+        "source": "github",
+        "repo": "aavaz-ai/claude-cowork-plugins",
+        "path": "plugins/enterpret-content-studio",
+        "ref": "main"
+      },
       "description": "Content production plugin for creating, editing, and publishing marketing and thought leadership content for Enterpret",
       "version": "5.0.0",
       "author": {
